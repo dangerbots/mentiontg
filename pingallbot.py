@@ -59,7 +59,7 @@ async def everyone(client, message):
             j = 0
             text1 = f"{inputText}\n\n"
             try:    
-              while j < 10:
+              while j < 100:
                 user = membersList.pop(0)
                 if user.username == None:
                   text1 += f"{user.mention} "
