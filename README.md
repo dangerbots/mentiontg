@@ -38,7 +38,7 @@
 ### 🛎 ping , all
 
 - To get everyone's attention by mentioning all members in the chat.
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fdangerbots%2FYukkiMusicBot&envs=API_HASH%2CAPI_ID%2CHANDLER%CABUSE%CDANGERCAT_SESSION%CBOT_TOKEN)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Dangerprobots/dangercat&envs=API_HASH%2CAPI_ID%2CHANDLER%CABUSE%CDANGERCAT_SESSION%CBOT_TOKEN)
 ```
 /ping <input>    
 ```
